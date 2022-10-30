@@ -1,4 +1,7 @@
 ### Hi there 👋
+### This is Tracy.
+### - 🔭 I’m currently working in accounting field.
+### - 🌱 I’m currently learning Salesforce coding.
 
 <!--
 **Tracy-Hua/Tracy-Hua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
